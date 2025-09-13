@@ -2,7 +2,7 @@
   "name": "online-library-system",
   "private": true,
   "version": "1.0.0",
-  "description": "A modern online library system built with React and Vite",
+  "description": "A modern online library system built with React and Vite - Browse, search, and manage your digital book collection",
   "type": "module",
   "scripts": {
     "dev": "vite",
