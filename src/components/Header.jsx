@@ -1,4 +1,5 @@
 // Navigation header component with routing links
+// This component provides the main navigation bar for the application
 import { Link } from 'react-router-dom';
 import { BookOpen, Home, Search, Plus } from 'lucide-react';
 import './Header.css';
