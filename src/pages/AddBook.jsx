@@ -1,4 +1,5 @@
 // Add Book page component with form validation and image upload
+// This component handles adding new books to the library with full validation
 import { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
