@@ -1,4 +1,5 @@
 // Error Boundary component for graceful error handling
+// This component catches JavaScript errors anywhere in the component tree
 import React from 'react';
 
 class ErrorBoundary extends React.Component {
