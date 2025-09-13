@@ -1,4 +1,5 @@
 // Redux slice for managing book data and state
+// This slice handles all book-related state management including CRUD operations
 import { createSlice } from '@reduxjs/toolkit';
 
 // Create the books slice with reducers for managing book state
