@@ -1,4 +1,5 @@
 // Home page component displaying popular books and categories
+// This is the landing page that showcases featured books and navigation
 import { Link } from 'react-router-dom';
 import { Star, ArrowRight } from 'lucide-react';
 import { useBooks } from '../hooks/useBooks';
