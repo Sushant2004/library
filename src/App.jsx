@@ -1,4 +1,5 @@
 // Main App component with routing and state management
+// This component sets up the React Router, Redux store, and error boundary
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from './store';
